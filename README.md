@@ -1,7 +1,7 @@
 hacktools
 =========
 
-Tooling, infrastructure and frameworks for better hackathons. 
+Open tools, infrastructure and frameworks for better hackathons. 
 
 ---
 
